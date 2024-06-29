@@ -1,0 +1,15 @@
+C:\Users\DELL\Documents\COS20007-OOP\Lecture\W8\SemesterTest\SemesterTest\bin\Debug\net6.0\SemesterTest.exe
+C:\Users\DELL\Documents\COS20007-OOP\Lecture\W8\SemesterTest\SemesterTest\bin\Debug\net6.0\SemesterTest.deps.json
+C:\Users\DELL\Documents\COS20007-OOP\Lecture\W8\SemesterTest\SemesterTest\bin\Debug\net6.0\SemesterTest.runtimeconfig.json
+C:\Users\DELL\Documents\COS20007-OOP\Lecture\W8\SemesterTest\SemesterTest\bin\Debug\net6.0\SemesterTest.dll
+C:\Users\DELL\Documents\COS20007-OOP\Lecture\W8\SemesterTest\SemesterTest\bin\Debug\net6.0\SemesterTest.pdb
+C:\Users\DELL\Documents\COS20007-OOP\Lecture\W8\SemesterTest\SemesterTest\obj\Debug\net6.0\SemesterTest.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\COS20007-OOP\Lecture\W8\SemesterTest\SemesterTest\obj\Debug\net6.0\SemesterTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\COS20007-OOP\Lecture\W8\SemesterTest\SemesterTest\obj\Debug\net6.0\SemesterTest.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\COS20007-OOP\Lecture\W8\SemesterTest\SemesterTest\obj\Debug\net6.0\SemesterTest.AssemblyInfo.cs
+C:\Users\DELL\Documents\COS20007-OOP\Lecture\W8\SemesterTest\SemesterTest\obj\Debug\net6.0\SemesterTest.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\COS20007-OOP\Lecture\W8\SemesterTest\SemesterTest\obj\Debug\net6.0\SemesterTest.dll
+C:\Users\DELL\Documents\COS20007-OOP\Lecture\W8\SemesterTest\SemesterTest\obj\Debug\net6.0\refint\SemesterTest.dll
+C:\Users\DELL\Documents\COS20007-OOP\Lecture\W8\SemesterTest\SemesterTest\obj\Debug\net6.0\SemesterTest.pdb
+C:\Users\DELL\Documents\COS20007-OOP\Lecture\W8\SemesterTest\SemesterTest\obj\Debug\net6.0\SemesterTest.genruntimeconfig.cache
+C:\Users\DELL\Documents\COS20007-OOP\Lecture\W8\SemesterTest\SemesterTest\obj\Debug\net6.0\ref\SemesterTest.dll
