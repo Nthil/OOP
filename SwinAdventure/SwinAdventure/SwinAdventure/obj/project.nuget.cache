@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "dMAz6DLowC8+Aw3mTFkBxyOq8v7ll0pOUkR4QuRA8mxd8DpqI7uVDvnUWel3EmvG2XbVYj9YulZhFsk4rQZT7Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DELL\\Documents\\COS20007-OOP\\SwinAdventure\\SwinAdventure\\SwinAdventure\\SwinAdventure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
